@@ -2,6 +2,8 @@
 
 This repository is for Day 2 of the DiMeN skills workshop happening in April 2023 that will focus on introduction to Python.
 
+The data in this repository is Copyright © [Software Carpentry](http://software-carpentry.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## Workshop materials
 
 - [Course notes](https://arctraining.github.io/python-2021-04/)
